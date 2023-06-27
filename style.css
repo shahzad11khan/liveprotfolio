@@ -1,0 +1,67 @@
+.cards {
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.cards:hover {
+    box-shadow: 5px 6px 6px 2px #4b4c4c;
+    transform: scale(1.1)
+}
+
+span {
+    color: aliceblue;
+    font-size: 30px;
+}
+
+ul {
+    color: rgb(2, 2, 2);
+    font-size: 20px;
+    margin: 3px;
+    background-color: lightgray;
+}
+
+#first {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+
+/* a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+    padding: 8px;
+} */
+
+#span2 {
+    color: rgb(13, 13, 14);
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#sec {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+
+/* a:hover {
+    contain: 'q';
+    font-size: 20px;
+    border-bottom: 2px solid;
+    text-shadow: peru;
+    transition: 2s;
+    width: 0px;
+    height: 2px;
+    margin: auto;
+    display: inline;
+}
+
+.btn:hover {
+    text-shadow: 3px 3px rgb(179, 176, 174);
+    transition: 1s;
+    font-size: 20px;
+    margin: auto;
+    display: inline;
+} */
